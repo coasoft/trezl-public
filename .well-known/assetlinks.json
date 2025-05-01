@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "de.coasoft.trezl",
+      "sha256_cert_fingerprints": ["9B:79:0F:A9:A4:EC:AF:12:50:9F:A9:81:9B:49:4B:0D:71:8F:1E:29:4A:2D:FE:0B:91:81:B0:9D:D7:66:8F:CA"]
+    }
+  }
+]
